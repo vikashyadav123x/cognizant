@@ -1,0 +1,13 @@
+{
+  "java.project.sourcePaths": [
+    "week2/Exercise1/src/main/java",
+    "week2/Exercise7/src/main/java",
+    "week2/SpringIoCExample/src/main/java"
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.server.launchMode": "Standard",
+  "files.exclude": {
+    "**/.classpath": false,
+    "**/.project": false
+  }
+}

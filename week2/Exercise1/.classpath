@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-context/5.3.31/spring-context-5.3.31.jar" sourcepath="M2_REPO/org/springframework/spring-context/5.3.31/spring-context-5.3.31-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-aop/5.3.31/spring-aop-5.3.31.jar" sourcepath="M2_REPO/org/springframework/spring-aop/5.3.31/spring-aop-5.3.31-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-beans/5.3.31/spring-beans-5.3.31.jar" sourcepath="M2_REPO/org/springframework/spring-beans/5.3.31/spring-beans-5.3.31-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/5.3.31/spring-core-5.3.31.jar" sourcepath="M2_REPO/org/springframework/spring-core/5.3.31/spring-core-5.3.31-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-jcl/5.3.31/spring-jcl-5.3.31.jar" sourcepath="M2_REPO/org/springframework/spring-jcl/5.3.31/spring-jcl-5.3.31-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-expression/5.3.31/spring-expression-5.3.31.jar" sourcepath="M2_REPO/org/springframework/spring-expression/5.3.31/spring-expression-5.3.31-sources.jar"/>
+</classpath>
