@@ -1,0 +1,26 @@
+@page {
+  size: 8.27in 11.69in;
+  margin: 0.79in;
+}
+p {
+  line-height: 115%;
+  text-align: center;
+  orphans: 2;
+  widows: 2;
+  margin-bottom: 0.1in;
+  direction: ltr;
+  background: transparent;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1rem;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App { text-align: center; }

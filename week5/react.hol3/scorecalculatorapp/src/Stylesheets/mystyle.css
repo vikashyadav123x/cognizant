@@ -1,0 +1,20 @@
+@page { size: 8.27in 11.69in; margin: 0.79in }
+p { line-height: 115%; text-align: left; orphans: 2; widows: 2; margin-bottom: 0.1in; direction: ltr; background: transparent }
+
+body { font-family: Arial, Helvetica, sans-serif; padding: 1rem; margin: 0 }
+.App { max-width: 720px; margin: 2rem auto; padding: 1rem }
+.formatstyle {
+	text-align: center;
+	font-size: large;
+	border: 1px solid #ddd;
+	padding: 1rem;
+	border-radius: 6px;
+	background: #fafafa;
+}
+
+.Name { font-weight: 300; color: blue; }
+.School { color: crimson; }
+.Total { color: darkmagenta; }
+.Score { color: forestgreen; }
+
+.formatstyle p { margin: 0.6rem 0 }

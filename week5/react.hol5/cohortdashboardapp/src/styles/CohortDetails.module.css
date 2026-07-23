@@ -1,0 +1,32 @@
+.box {
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  background: #ffffff;
+  vertical-align: top;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
+}
+
+p {
+  font-weight: 500;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  justify-content: center;
+}
+
+.ongoing {
+  color: green;
+  font-weight: 700;
+}
+
+.completed {
+  color: blue;
+  font-weight: 700;
+}

@@ -1,0 +1,50 @@
+@page {
+  size: 8.27in 11.69in;
+  margin: 0.79in;
+}
+p {
+  line-height: 115%;
+  text-align: left;
+  orphans: 2;
+  widows: 2;
+  margin-bottom: 0.1in;
+  direction: ltr;
+  background: transparent;
+}
+a:link {
+  color: #0000ff;
+  text-decoration: underline;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(180deg, #f8fafc 0%, #eef2ff 100%);
+  color: #111827;
+}
+
+.app-shell {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px 20px 48px;
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.78rem;
+  color: #475569;
+}
+
+.subtitle {
+  color: #475569;
+}
