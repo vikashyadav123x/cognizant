@@ -1,0 +1,18 @@
+.container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+
+.card {
+  width: 350px;
+  margin: 20px auto;
+  padding: 15px;
+  border: 1px solid #444;
+  border-radius: 8px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: darkblue;
+}

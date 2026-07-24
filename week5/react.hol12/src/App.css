@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 15px;
+  cursor: pointer;
+}
